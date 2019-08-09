@@ -1,0 +1,8 @@
+/Users/linyi/work_wxg/wxpay-sdk-donet/WxPayAPI_CS_v3/WxPayAPI/WxPayAPI/obj/Debug/WxPayAPI.csprojResolveAssemblyReference.cache
+/Users/linyi/work_wxg/wxpay-sdk-donet/WxPayAPI_CS_v3/WxPayAPI/WxPayAPI/obj/Debug/WxPayAPI.csproj.CoreCompileInputs.cache
+/Users/linyi/work_wxg/wxpay-sdk-donet/WxPayAPI_CS_v3/WxPayAPI/WxPayAPI/bin/WxPayAPI.dll
+/Users/linyi/work_wxg/wxpay-sdk-donet/WxPayAPI_CS_v3/WxPayAPI/WxPayAPI/bin/WxPayAPI.pdb
+/Users/linyi/work_wxg/wxpay-sdk-donet/WxPayAPI_CS_v3/WxPayAPI/WxPayAPI/bin/LitJson.dll
+/Users/linyi/work_wxg/wxpay-sdk-donet/WxPayAPI_CS_v3/WxPayAPI/WxPayAPI/bin/ThoughtWorks.QRCode.dll
+/Users/linyi/work_wxg/wxpay-sdk-donet/WxPayAPI_CS_v3/WxPayAPI/WxPayAPI/obj/Debug/WxPayAPI.dll
+/Users/linyi/work_wxg/wxpay-sdk-donet/WxPayAPI_CS_v3/WxPayAPI/WxPayAPI/obj/Debug/WxPayAPI.pdb
