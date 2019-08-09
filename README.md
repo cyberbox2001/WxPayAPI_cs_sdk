@@ -41,4 +41,18 @@
 
 ## 微信支付接口 包括H5（wap）、原生APP、公众号、小程序等[详细这里](https://pay.weixin.qq.com/wiki/doc/api/index.html)
 
+小程序支付API接口[详细这里](https://pay.weixin.qq.com/wiki/doc/api/wxa/wxa_api.php?chapter=9_1)
 
+小程序支付的交互图![如下](https://pay.weixin.qq.com/wiki/doc/api/img/wxa-7-2.jpg)
+
+商户系统和微信支付系统主要交互：
+
+1. 小程序内调用登录接口，获取到用户的openid,api参见公共api[小程序登录API](https://developers.weixin.qq.com/miniprogram/dev/api/open-api/login/wx.login.html)
+
+2. 商户server调用支付统一下单，api参见公共api[统一下单API](https://pay.weixin.qq.com/wiki/doc/api/wxa/wxa_api.php?chapter=9_1&index=1)
+
+3. 商户server调用再次签名，api参见公共api[再次签名](https://pay.weixin.qq.com/wiki/doc/api/wxa/wxa_api.php?chapter=7_7&index=3)
+
+4. 商户server接收支付通知，api参见公共api[支付结果通知API](https://pay.weixin.qq.com/wiki/doc/api/wxa/wxa_api.php?chapter=9_7)
+
+5. 商户server查询支付结果，api参见公共api[查询订单API](https://pay.weixin.qq.com/wiki/doc/api/wxa/wxa_api.php?chapter=9_2)
